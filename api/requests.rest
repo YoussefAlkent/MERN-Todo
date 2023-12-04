@@ -1,0 +1,19 @@
+GET http://localhost:3001/todos
+
+###
+
+POST  http://localhost:3001/todos/new
+Content-Type: application/json
+
+{
+    "text": "Learn Node",
+    "completed": true
+}
+
+###
+
+DELETE http://localhost:3001/todos/delete/656e3b933c364403b0282e9b
+
+###
+
+PUT http://localhost:3001/todos/complete/656e2f5a9a2d9e961386a8a2
