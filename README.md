@@ -30,19 +30,13 @@ A simple and responsive Todo App built using the **MERN Stack** (MongoDB, Expres
 
 ### **Others**
 - **Mongoose**: ODM for MongoDB.
-- **Axios**: HTTP client for API requests.
+---
+
+## Acknowledgements 
+- Thanks to the open-source community for their tools and libraries.
 
 ---
 
-## Installation and Setup
+## License
 
-### Prerequisites
-- Node.js (v16 or later)
-- MongoDB
-- npm or yarn
-
-### Steps to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/todo-app.git
+- This project is licensed under the MIT License. See the LICENSE file for details.
